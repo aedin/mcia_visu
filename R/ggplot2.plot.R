@@ -1,4 +1,5 @@
-setwd("multiOmicMethod_Visualizaition/")
+# setwd("multiOmicMethod_Visualizaition/")
+setwd("~/mnt/msdata5/Projects/multiOmicMethod_Visualizaition/")
 library(omicade4)
 library(ggplot2)
 data(NCI60_4arrays)
